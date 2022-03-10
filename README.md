@@ -6,3 +6,7 @@ this is a repository to test command: git rebase
 231321
 
 change c
+
+change a
+
+change b
